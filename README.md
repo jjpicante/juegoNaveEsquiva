@@ -46,8 +46,3 @@ pyinstaller --onefile --windowed game.py
 
 Esto generará un archivo ejecutable que podrás ejecutar en cualquier computadora sin necesidad de instalar Python.
 
-## Contribuciones
-
-Si tienes ideas para mejorar el juego o encuentras algún error, ¡no dudes en abrir un issue o enviar un pull request!
-```
-
