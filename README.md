@@ -1,5 +1,5 @@
-```markdown
-# Nave Esquiva
+
+## Nave Esquiva
 
 **Nave Esquiva** es un juego simple desarrollado en Python utilizando la librería Pygame. En este juego, el jugador controla una nave espacial con el objetivo de esquivar asteroides que se mueven de derecha a izquierda en la pantalla. A medida que el juego avanza, la velocidad de los asteroides aumenta, haciendo el juego más desafiante.
 
