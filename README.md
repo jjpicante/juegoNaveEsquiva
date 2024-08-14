@@ -36,13 +36,5 @@ pip install pygame
 python game.py
 ```
 
-## Creación de un Ejecutable
 
-Si deseas jugar sin necesidad de instalar Python, puedes convertir el script en un archivo ejecutable utilizando PyInstaller:
-
-```bash
-pyinstaller --onefile --windowed game.py
-```
-
-Esto generará un archivo ejecutable que podrás ejecutar en cualquier computadora sin necesidad de instalar Python.
 
